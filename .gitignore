@@ -1,0 +1,31 @@
+# Compilados e binários
+*.exe
+*.dll
+*.lib
+*.a
+*.so
+*.dylib
+*.o
+*.obj
+*.out
+*.ilk
+*.pdb
+*.map
+
+# Diretórios de build/saída
+output/
+build/
+dist/
+
+# Arquivos temporários
+*.log
+*.tmp
+*.cache
+
+# IDE/Editor
+.vscode/
+*.code-workspace
+
+# Sistema
+.DS_Store
+Thumbs.db
